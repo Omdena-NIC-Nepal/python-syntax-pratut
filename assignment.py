@@ -1,5 +1,8 @@
 def format_string(name, age):
     """
+    
+    
+    THIS IS PRASTUT 
     Create a formatted string using f-strings.
     Args:
         name (str): Person's name
@@ -7,7 +10,7 @@ def format_string(name, age):
     Returns:
         str: Formatted string
     """
-    pass
+    return(name+age)
 
 def conditional_check(number):
     """
